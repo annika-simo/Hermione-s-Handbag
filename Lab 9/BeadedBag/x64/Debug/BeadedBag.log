@@ -1,0 +1,3 @@
+﻿  beadedbag.cpp
+C:\Users\Annika\Documents\uc\spring 2022\cs 1\Lab 9\BeadedBag\beadedbag.cpp(14,18): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  BeadedBag.vcxproj -> C:\Users\Annika\Documents\uc\spring 2022\cs 1\Lab 9\BeadedBag\x64\Debug\BeadedBag.exe
